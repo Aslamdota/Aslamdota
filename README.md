@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aslam Msuahtafa Karim</h1>
+<h1 align="center">Hi 👋, I'm Aslam Mushhtafa Karim</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Informatic IWU**
